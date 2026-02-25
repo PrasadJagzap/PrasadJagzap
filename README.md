@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Prasad Jagzap</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+ I'm Prasad Jagzap</h1>
 <h3 align="center">🚀 Frontend Developer | Open-Source Learner | Tech Explorer</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=prasadjagzap&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
 
 ---
 
@@ -39,17 +38,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prasadjagzap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadjagzap&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadjagzap&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="500em" height="300em" src="https://github.githubassets.com/assets/social-2deb6d7d43e7.jpg"/>
 </p>
 
 ---
@@ -63,10 +56,6 @@
 ---
 
 ## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=prasadjagzap&theme=onedark&no-frame=true&margin-w=10"/>
-</p>
 
 ---
 
