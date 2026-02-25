@@ -1,33 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prasad Jagzap</h1>
+<h3 align="center">🚀 Frontend Developer | Open-Source Learner | Tech Explorer</h3>
 
-<!--
-**PrasadJagzap/PrasadJagzap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prasadjagzap&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
 
-![](https://komarev.com/ghpvc/?username=prasadjagzap&color=blue)
+* 🌱 Currently learning **Web Development & Software Engineering**
+* 🔭 Building real-world projects and improving daily
+* 🤝 Open to collaboration on beginner & open-source projects
+* 💬 Ask me about **HTML, CSS, JavaScript, GitHub**
+* ⚡ Goal: Become a **Professional Full Stack Developer**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prasadjagzap) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prasadjagzap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@prasadjagzap) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasadjagzap2006@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prasadjagzap&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prasadjagzap&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadjagzap&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🌐 Connect With Me
 
-### 🔝 Top Contributed Repo
+<p align="center">
+<a href="https://instagram.com/prasadjagzap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/prasadjagzap"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://youtube.com/@prasadjagzap"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:prasadjagzap2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,canva"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prasadjagzap&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadjagzap&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadjagzap&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadjagzap&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=prasadjagzap&theme=onedark&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🔥 Developer Mindset
+
+> *Code • Learn • Build • Improve • Repeat*
+
+---
+
+⭐ From **Prasad Jagzap**
