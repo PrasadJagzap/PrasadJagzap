@@ -2,6 +2,11 @@
  I'm Prasad Jagzap</h1>
 <h3 align="center">🚀 Frontend Developer | Open-Source Learner | Tech Explorer</h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=prasadjagzap&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Developer-Prasad%20Jagzap-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Profile-Active-success?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 
 ---
