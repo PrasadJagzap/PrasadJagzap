@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻 My GitHub Profile
-
-[![GitHub Profile](https://github-readme-stats.vercel.app/api?username=prasadjagzap&show_icons=true)](https://github.com/prasadjagzap)
-
-## 👀 Profile Views
-
 ![](https://komarev.com/ghpvc/?username=prasadjagzap&color=blue)
 
 ## 🌐 Socials:
