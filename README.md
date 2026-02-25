@@ -41,16 +41,10 @@
 ---
 
 ## 📊 GitHub Analytics
-
+<!-- GitHub Streak Stats -->
 <p align="center">
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadjagzap&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadjagzap&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
-<p align="center">
-<img width="500em" height="300em" src="https://github.githubassets.com/assets/social-2deb6d7d43e7.jpg"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
