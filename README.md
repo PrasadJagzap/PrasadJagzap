@@ -39,6 +39,27 @@
 </p>
 
 ---
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasadjagzap/prasadjagzap/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasadjagzap/prasadjagzap/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/prasadjagzap/prasadjagzap/output/github-snake.svg" />
+</picture>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadjagzap&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prasadjagzap&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+---
+
 
 
 ---
