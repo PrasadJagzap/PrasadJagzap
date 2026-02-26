@@ -40,17 +40,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img height="170em" src="https://streak-stats.demolab.com?user=prasadjagzap&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasadjagzap&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
