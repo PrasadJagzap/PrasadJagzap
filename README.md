@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=green&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prasadjagzap&label=Profile%20Views&color=6366f1&style=for-the-badge)](https://github.com/prasadjagzap)
 <img src="https://img.shields.io/badge/Developer-Prasad%20Jagzap-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
