@@ -44,7 +44,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-   <img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prasadjagzap&theme=radical&hide_border=true&background=0D1117&ring=6366f1&fire=8b5cf6&currStreakLabel=c9d1d9" alt="Prasad's Streak Stats" />
+<img width="49%"
+src="https://streak-stats.demolab.com?user=prasadjagzap&theme=radical&hide_border=true" />
 
 
 
