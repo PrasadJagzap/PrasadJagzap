@@ -33,17 +33,17 @@
 </p>
 
 ---
-
+<div align="center">
 ## 💻 Tech Stack
-
+</div>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,canva"/>
 </p>
 
 ---
-
-## 📊 GitHub Stats
 <div align="center">
+## 📊 GitHub Stats
+</div>
 <div align="center">
 <img width="49%"
 src="https://streak-stats.demolab.com?user=prasadjagzap&theme=radical&hide_border=true&cache_seconds=1" />
