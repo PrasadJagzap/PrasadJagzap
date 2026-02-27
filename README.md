@@ -34,7 +34,7 @@
 
 ---
 <div align="center">
-## 💻 Tech Stack
+<h1>💻 Tech Stack</h1>
 </div>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,canva"/>
@@ -42,7 +42,7 @@
 
 ---
 <div align="center">
-## 📊 GitHub Stats
+<h1>📊 GitHub Stats</h1>
 </div>
 <div align="center">
 <img width="49%"
