@@ -44,12 +44,13 @@
 
 ## 📊 GitHub Stats
 <div align="center">
+<div align="center">
 <img width="49%"
-src="https://streak-stats.demolab.com?user=prasadjagzap&theme=radical&hide_border=true" />
+src="https://streak-stats.demolab.com?user=prasadjagzap&theme=radical&hide_border=true&cache_seconds=1" />
 
 
-
-  <img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=prasadjagzap&theme=radical&hide_border=true&background=0D1117&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="readme stats" />
+<img width="49%" 
+src="https://github-readme-stats-salesp07.vercel.app/api?username=prasadjagzap&theme=radical&hide_border=true&background=0D1117&count_private=true&show_icons=true&rank_icon=github&border_radius=10&v=1" />
 </div>
 ---
 
