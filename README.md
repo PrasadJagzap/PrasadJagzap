@@ -24,20 +24,13 @@
 ---
 
 ## 🌐 Connect With Me
-<a href="https://www.linkedin.com/in/prasadjagzap">
-    <img align="left" alt="prasadjagzap | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/prasadjagz">
-    <img align="left" alt="prasadjagz50339 | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/prasadjagzap/">
-    <img align="left" alt="prasadjagzap | Instagram" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="prasadjagzap2006@gmail.com">
-    <img align="left" alt="prasadjagzap | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>>
-
+<p align="center">
+<a href="https://instagram.com/prasadjagzap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/@PrasadJagz50339"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://youtube.com/@prasadjagzap"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="mailto:prasadjagzap2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ---
+</p>
 <div align="center">
 <h1>💻 Tech Stack</h1>
 </div>
