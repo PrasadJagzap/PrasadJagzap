@@ -28,15 +28,27 @@
 <a href="https://instagram.com/prasadjagzap"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://x.com/@PrasadJagz50339"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://youtube.com/@prasadjagzap"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="mailto:prasadjagzap2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
+<a href="mailto:prasadjagzap2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://t.me/prasadjagzap" target="_blank"><img src="https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=blue" alt="Telegram"/>
+</a> <br>
 ---
 </p>
 <div align="center">
 <h1>💻 Tech Stack</h1>
 </div>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode,blender,photoshop,arduino,unity,googlecloud,canva"/>
+<img src="https://skillicons.dev/icons?i=leetcode,hackerank,github,vscode,blender,photoshop"/>
 </p>
+<br>
+
+<div align="center">
+<h1>Languages</h1>
+</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,mongodb,react,nodejs"/>
+</p>
+
+
 
 ---
 <div align="center">
