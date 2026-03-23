@@ -37,7 +37,7 @@
 <h1>💻 Tech Stack</h1>
 </div>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=leetcode,hackerank,github,vscode,blender,photoshop"/>
+<img src="https://skillicons.dev/icons?i=leetcode,hackerank,github,vscode,blender,photoshop,flutter,androidstudio"/>
 </p>
 <br>
 
